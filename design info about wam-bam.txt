@@ -1,0 +1,5 @@
+fonts: MuseoModerno
+which was it designed in?: vectr.com
+
+logo inspired by WTFPL
+license copied from WTFPL to create the WAM-BAM software license
